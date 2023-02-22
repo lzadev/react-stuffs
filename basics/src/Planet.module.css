@@ -1,0 +1,8 @@
+.name {
+    color: indigo;
+    font-family: cursive;   
+    text-decoration: underline;
+    font-size: 34px;
+    letter-spacing: 2;
+    cursor: pointer;
+}

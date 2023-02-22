@@ -1,0 +1,8 @@
+.detail {
+    color: indigo;
+    font-family: cursive;   
+    text-decoration: underline;
+    font-size: 16px;
+    letter-spacing: 2;
+    cursor: pointer;
+}
